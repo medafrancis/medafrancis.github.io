@@ -313,3 +313,10 @@ a:hover { text-decoration: underline; }
 
 .tab-panel { display: none; }
 .tab-panel.active { display: block; }
+
+
+.content .bio {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
