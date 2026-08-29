@@ -224,8 +224,8 @@ a:hover { text-decoration: underline; }
 /* ---------- Simple lists (teaching / data pages) ---------- */
 
 .entry-block {
-  margin-bottom: 26px;
-  padding-bottom: 22px;
+  margin-bottom: 14px;
+  padding-bottom: 12px;
   border-bottom: 1px solid var(--border);
 }
 .entry-block:last-child { border-bottom: none; }
